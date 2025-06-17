@@ -1,0 +1,71 @@
+✅ from box.exceptions import BoxValueError
+    BoxValueError is an exception raised by the python-box library.
+    It occurs when you try to access a key/value in a Box object that isn't valid.
+    Used for better error handling when working with config files in dictionary-like format.
+
+✅ import yaml
+Used to load or write YAML files.
+YAML is commonly used for configuration files (like config.yaml in ML projects).
+
+python
+    with open("config.yaml") as f:
+        config = yaml.safe_load(f)
+
+✅ from cnnClassifier import logger
+This is your custom logger (the one you defined earlier).
+It’s used throughout your project to record logs.
+
+✅ import json
+For loading/saving JSON data.
+Often used when working with APIs, saving model metadata, etc.
+
+python
+    json.dump(data, open("output.json", "w"))
+
+✅ import joblib
+Used for saving and loading machine learning models or Python objects.
+More efficient than pickle for large numpy arrays.
+
+python
+    joblib.dump(model, "model.joblib")
+    model = joblib.load("model.joblib")
+
+✅ from ensure import ensure_annotations
+A small utility that validates function input types at runtime.
+Ensures that your function inputs match their annotated types.
+
+python
+    @ensure_annotations
+    def add(a: int, b: int) -> int:
+        return a + b
+If you pass a float or string, it will raise an error.
+
+✅ from box import ConfigBox
+ConfigBox allows you to access dictionary keys using dot notation:
+python
+    from box import ConfigBox
+    d = ConfigBox({"name": "Mohamad"})
+    print(d.name)  # instead of d["name"]
+Used a lot for accessing config values easily.
+
+✅ from pathlib import Path
+Modern way to handle file and folder paths (better than os.path).
+
+python
+    Path("models") / "model.pkl"  # handles OS-specific paths
+
+✅ from typing import Any
+Any is used for type hinting.
+Tells Python the function can accept any type for that variable.
+
+python
+    def save(obj: Any):
+
+
+✅ import base64
+Used to encode/decode binary data into text.
+Useful when you want to send images, models, or binary files over APIs or logs.
+
+python
+    encoded = base64.b64encode(b"hello")
+    decoded = base64.b64decode(encoded)
