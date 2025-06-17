@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/MohamadGamal/Kidney-Disease-Classification-MLFLOW-DVC-And-Deployment
+Author: MohamadGamal
+Author-email: gimephys@gmail.com
+Project-URL: Bug Tracker, https://github.com/MohamadGamal/Kidney-Disease-Classification-MLFLOW-DVC-And-Deployment/issues
+
 # Kidney-Disease-Classification-Deep-Learning-Project-With-MLFLOW-DVC-And-Deployment
 ## This project applies deep learning for classifying kidney disease using Convolutional Neural Networks (CNN), with integrated tools like **MLFLOW** for experiment tracking, **DVC** for data version control, and **Flask** for deployment.
 
