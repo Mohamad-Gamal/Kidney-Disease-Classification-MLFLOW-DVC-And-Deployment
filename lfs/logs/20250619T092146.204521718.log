@@ -1,0 +1,50 @@
+git-lfs/3.6.1 (GitHub; linux amd64; go 1.23.3)
+git version 2.49.0
+
+$ git-lfs prune
+Prune error: Git can't resolve ref: "HEAD"
+Prune error: error in `git log`: exit status 128 fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+Prune error: error in `git worktree`: exit status 128: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+
+error in `git worktree`: exit status 128: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+
+
+Current time in UTC:
+2025-06-19 09:21:46
+
+Environment:
+LocalWorkingDir=
+LocalGitDir=
+LocalGitStorageDir=
+LocalMediaDir=lfs/objects
+LocalReferenceDirs=
+TempDir=lfs/tmp
+ConcurrentTransfers=8
+TusTransfers=false
+BasicTransfersOnly=false
+SkipDownloadErrors=false
+FetchRecentAlways=false
+FetchRecentRefsDays=7
+FetchRecentCommitsDays=0
+FetchRecentRefsIncludeRemotes=true
+PruneOffsetDays=3
+PruneVerifyRemoteAlways=false
+PruneVerifyUnreachableAlways=false
+PruneRemoteName=origin
+LfsStorageDir=lfs
+AccessDownload=none
+AccessUpload=none
+DownloadTransfers=basic,lfs-standalone-file,ssh
+UploadTransfers=basic,lfs-standalone-file,ssh
+GIT_ASKPASS=/vscode/bin/linux-x64/dfaf44141ea9deb3b4096f7cd6d24e00c147a4b1/extensions/git/dist/askpass.sh
+GIT_EDITOR=code --wait
+GIT_EXEC_PATH=/usr/local/libexec/git-core
+
+Client IP addresses:
+10.0.0.17 fe80::7e1e:52ff:fe46:aa15
+172.17.0.1

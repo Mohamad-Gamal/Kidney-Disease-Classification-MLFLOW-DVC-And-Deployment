@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 a43c62a420ab853ec7294eee0e5151a3025b8470 root <root@8b880d5b-61dd-4b16-9c70-ff0bf4870906.djjsigw1zv5efcnjbyj2jpa2we.bx.internal.cloudapp.net> 1750140523 +0000	clone: from https://github.com/Mohamad-Gamal/Kidney-Disease-Classification-MLFLOW-DVC-And-Deployment
+a43c62a420ab853ec7294eee0e5151a3025b8470 f7bc05d3221603e16f8fe65e9524014d3e2f9603 MohamadGamal <108193760+Mohamad-Gamal@users.noreply.github.com> 1750143058 +0000	commit: initialize project
+f7bc05d3221603e16f8fe65e9524014d3e2f9603 4aea8696a255daebaecdeba2549b2f299298c211 MohamadGamal <108193760+Mohamad-Gamal@users.noreply.github.com> 1750157951 +0000	commit: utils added
+4aea8696a255daebaecdeba2549b2f299298c211 d633a578645960ca386ca47d291e9054ff31a4af MohamadGamal <108193760+Mohamad-Gamal@users.noreply.github.com> 1750158473 +0000	commit: workflow readme
+d633a578645960ca386ca47d291e9054ff31a4af 2dfb31f20a3d4ec3ce226c2ea309755bd84f36ec MohamadGamal <108193760+Mohamad-Gamal@users.noreply.github.com> 1750161121 +0000	commit: load data
+2dfb31f20a3d4ec3ce226c2ea309755bd84f36ec b98db7f49b145fe7615c1276830747f492054423 MohamadGamal <108193760+Mohamad-Gamal@users.noreply.github.com> 1750161514 +0000	commit: load data
+b98db7f49b145fe7615c1276830747f492054423 8641d4ccf4501d3b228a90f0b80f82dbc5689d68 MohamadGamal <108193760+Mohamad-Gamal@users.noreply.github.com> 1750164599 +0000	commit: load data
+8641d4ccf4501d3b228a90f0b80f82dbc5689d68 9b90d523e877b95498cba128cb8ea58bb5428fb5 MohamadGamal <108193760+Mohamad-Gamal@users.noreply.github.com> 1750165157 +0000	commit: Add large files using Git LFS
+9b90d523e877b95498cba128cb8ea58bb5428fb5 77975c00f910398173c07285e1eb0a2dd50690e9 MohamadGamal <108193760+Mohamad-Gamal@users.noreply.github.com> 1750166432 +0000	commit: load data
+77975c00f910398173c07285e1eb0a2dd50690e9 1e63a2f5068c1782e0b196152898bef481f6e2b6 MohamadGamal <108193760+Mohamad-Gamal@users.noreply.github.com> 1750166448 +0000	commit: load data
+1e63a2f5068c1782e0b196152898bef481f6e2b6 50735cf2300abbe91a253fe42634d9e3dce9eff5 MohamadGamal <108193760+Mohamad-Gamal@users.noreply.github.com> 1750167440 +0000	commit: load data
+50735cf2300abbe91a253fe42634d9e3dce9eff5 29ae2455b4cfa056c53fffc77ffa900c4680003d MohamadGamal <108193760+Mohamad-Gamal@users.noreply.github.com> 1750167683 +0000	commit: upload data
+29ae2455b4cfa056c53fffc77ffa900c4680003d 664ba86a2e77af0f8fd6682e7be71b9b44c5ac99 MohamadGamal <108193760+Mohamad-Gamal@users.noreply.github.com> 1750167944 +0000	commit: small data
+664ba86a2e77af0f8fd6682e7be71b9b44c5ac99 941adfe11882148a211a7f42ebe8925f1e35c5a9 MohamadGamal <108193760+Mohamad-Gamal@users.noreply.github.com> 1750324085 +0000	commit: upload data
+941adfe11882148a211a7f42ebe8925f1e35c5a9 4bb5f5be37910e4687cfc115bd8c18de8cffe055 MohamadGamal <108193760+Mohamad-Gamal@users.noreply.github.com> 1750324290 +0000	commit: Partial commit
